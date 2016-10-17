@@ -1,7 +1,26 @@
 .titre {
+    font-family: cursive;
+    font-size: medium;
+    font-size: 75px;
+
+    margin: auto;
+
+
+
+}
+
+input{
+
+    border: crimson;
+    width:100px;
+    height: 100px;
     font-family: fantasy;
-    font-size: larger;
+    color: yellowgreen;
     font-size: 50px;
-    
-    
+    font-style: oblique;
+
+
+
+
+
 }
